@@ -1,0 +1,45 @@
+2024-11-16 01:26:01,964 - INFO - Conexion a la base de datos establecida correctamente
+2024-11-16 01:26:01,966 - INFO - Archivo data/departments.csv leido exitosamente
+2024-11-16 01:26:01,968 - INFO - Archivo data/categories.csv leido exitosamente
+2024-11-16 01:26:01,981 - INFO - Archivo data/customers.csv leido exitosamente
+2024-11-16 01:26:01,989 - INFO - Archivo data/products.csv leido exitosamente
+2024-11-16 01:26:02,015 - INFO - Archivo data/orders.csv leido exitosamente
+2024-11-16 01:26:02,026 - ERROR - hay order_customer_id que no se encuentran en customers
+2024-11-16 01:26:02,078 - INFO - Archivo data/order_items.csv leido exitosamente
+2024-11-16 01:26:02,079 - INFO - Recalculando order_item_subtotal
+2024-11-16 01:26:02,108 - INFO - Datos cargados exitosamente en la tabla departments
+2024-11-16 01:26:02,127 - INFO - Datos cargados exitosamente en la tabla categories
+2024-11-16 01:26:02,561 - INFO - Datos cargados exitosamente en la tabla customers
+2024-11-16 01:26:02,632 - INFO - Datos cargados exitosamente en la tabla products
+2024-11-16 01:26:04,497 - INFO - Datos cargados exitosamente en la tabla orders
+2024-11-16 01:26:09,512 - INFO - Datos cargados exitosamente en la tabla order_items
+2024-11-16 01:26:09,513 - INFO - Pipeline de datos ejecutado existosamente
+2024-11-16 01:44:32,780 - INFO - Conexion a la base de datos establecida correctamente
+2024-11-16 01:44:32,786 - INFO - Archivo data/departments.csv leido exitosamente
+2024-11-16 01:44:32,787 - INFO - Archivo data/categories.csv leido exitosamente
+2024-11-16 01:45:23,929 - INFO - Conexion a la base de datos establecida correctamente
+2024-11-16 01:45:23,931 - INFO - Archivo data/departments.csv leido exitosamente
+2024-11-16 01:45:23,932 - INFO - Archivo data/categories.csv leido exitosamente
+2024-11-16 01:45:23,932 - ERROR - hay category_department_id que no se encuentran en el otro dataframe
+2024-11-16 01:45:50,594 - INFO - Conexion a la base de datos establecida correctamente
+2024-11-16 01:45:50,596 - INFO - Archivo data/departments.csv leido exitosamente
+2024-11-16 01:45:50,598 - INFO - Archivo data/categories.csv leido exitosamente
+2024-11-16 01:45:50,615 - INFO - Archivo data/customers.csv leido exitosamente
+2024-11-16 01:45:50,630 - INFO - Archivo data/products.csv leido exitosamente
+2024-11-16 01:45:50,665 - INFO - Archivo data/orders.csv leido exitosamente
+2024-11-16 01:45:50,678 - ERROR - hay order_customer_id que no se encuentran en el otro dataframe
+2024-11-16 01:46:35,656 - INFO - Conexion a la base de datos establecida correctamente
+2024-11-16 01:46:35,658 - INFO - Archivo data/departments.csv leido exitosamente
+2024-11-16 01:46:35,659 - INFO - Archivo data/categories.csv leido exitosamente
+2024-11-16 01:46:35,672 - INFO - Archivo data/customers.csv leido exitosamente
+2024-11-16 01:46:35,680 - INFO - Archivo data/products.csv leido exitosamente
+2024-11-16 01:46:35,707 - INFO - Archivo data/orders.csv leido exitosamente
+2024-11-16 01:46:35,785 - INFO - Archivo data/order_items.csv leido exitosamente
+2024-11-16 01:46:35,801 - INFO - Recalculando order_item_subtotal
+2024-11-16 01:46:35,831 - INFO - Datos cargados exitosamente en la tabla departments
+2024-11-16 01:46:35,837 - INFO - Datos cargados exitosamente en la tabla categories
+2024-11-16 01:46:36,260 - INFO - Datos cargados exitosamente en la tabla customers
+2024-11-16 01:46:36,314 - INFO - Datos cargados exitosamente en la tabla products
+2024-11-16 01:46:37,975 - INFO - Datos cargados exitosamente en la tabla orders
+2024-11-16 01:46:42,789 - INFO - Datos cargados exitosamente en la tabla order_items
+2024-11-16 01:46:42,790 - INFO - Pipeline de datos ejecutado existosamente
